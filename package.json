@@ -1,0 +1,23 @@
+{
+  "name": "mybinarytree.github.io",
+  "version": "1.0.0",
+  "description": "https://www.mybinarytree.com",
+  "main": "index.js",
+  "scripts": {
+    "update": "cp ../mybinarytree/dist/** ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mybinarytree/mybinarytree.github.io.git"
+  },
+  "author": {
+    "name": "lixinliang",
+    "url": "https://github.com/lixinliang"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mybinarytree/mybinarytree.github.io/issues"
+  },
+  "homepage": "https://github.com/mybinarytree/mybinarytree.github.io#readme"
+}
