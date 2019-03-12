@@ -4,7 +4,7 @@
   "description": "https://www.mybinarytree.com",
   "main": "index.js",
   "scripts": {
-    "update": "cp ../mybinarytree/dist/** ./",
+    "update": "rm -rf html && mkdir html && cp ../mybinarytree/dist/** ./html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
